@@ -1,8 +1,17 @@
 教程
 
-- 官网：[滑动条(Slider) · GitBook (cocos.com)](https://docs.cocos.com/cocos2d-x/manual/zh/ui_components/sliders.html)
-- awesome 系列：有很多成品
-  - [Leo501/awesome-CocosCreator: Cocos Creator 游戏资源合集 (github.com)](https://github.com/Leo501/awesome-CocosCreator?tab=readme-ov-file)
+- 学习路线？？？
+  - https://www.cnblogs.com/bycw/p/17843263.html
+- 官网：[Cocos Creator 3.8 API - Tween](https://docs.cocos.com/creator/3.8/api/zh/class/Tween)
+- up主推荐
+  - blake老师：[Cocos (bycwedu.com)](https://www.bycwedu.com/customize?cate=710180854)
+  - [Sli97的个人空间-Sli97个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/303957852)
+  - [俊哥全栈游戏之路的个人空间-俊哥全栈游戏之路个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/1271816316)
+  - [第九艺术搬运工的个人空间-第九艺术搬运工个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/1410363291/?spm_id_from=333.999.0.0)
+  - 面试
+    - [程序员长风的个人空间-程序员长风个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/50743344/?spm_id_from=333.999.0.0)
+  
+- - 
 - 论坛
   - [Cocos 中文社区 - Cocos 中文社区](https://forum.cocos.org/)
   - [Cocos Creator - Cocos Creator 技术, 学习, 经验文章 - 掘金 (juejin.cn)](https://juejin.cn/tag/Cocos Creator)
@@ -29,6 +38,12 @@
 
 ## 关键问题
 
+没有学习路线，没有项目亮点，这2个是最可怕的！会导致你如同大海一叶孤舟，失去方向，失去船帆！
+
+- 
+
+
+
 #### 学习计划
 
 ：从 8 月 28 日开始，最重要的是指导什么是重要的，比如时间、速度，什么是不重要的，
@@ -37,27 +52,27 @@
 
 第 1 天：Cocos Creator 基础（8 小时）
 
-  - [ ] 安装 Cocos Creator IDE。
-  - [ ] 熟悉 Cocos Creator 界面和工作流程。
-  - [ ] 完成官方的“Hello World”教程。
-  - [ ] 学习 Cocos Creator 的项目结构和基本组件。
+  - [x] 安装 Cocos Creator IDE。
+  - [x] 熟悉 Cocos Creator 界面和工作流程。
+  - [x] 完成官方的“Hello World”教程。
+  - [x] 学习 Cocos Creator 的项目结构和基本组件。
 
 
-  - [ ] 学习节点（Node）和场景（Scene）的概念。
-  - [ ] 了解如何创建和操作 UI 元素。
+  - [x] 学习节点（Node）和场景（Scene）的概念。
+  - [x] 了解如何创建和操作 UI 元素。
   - [ ] 学习使用属性检查器和层级管理器。
   - [ ] 创建一个简单的滚动背景场景。
 
 第 2 天：2D 游戏基础（8 小时）
 
-  - [ ] 学习 2D 游戏对象和精灵（Sprite）的使用。
-  - [ ] 了解锚点和坐标系统。
-  - [ ] 学习如何使用和创建动画（Animation）。
+  - [x] 学习 2D 游戏对象和精灵（Sprite）的使用。
+  - [x] 了解锚点和坐标系统。
+  - [x] 学习如何使用和创建动画（Animation）。
 
 
-  - [ ] 学习事件系统和消息传递机制。
-  - [ ] 实践如何响应用户输入（触摸、键盘）。
-  - [ ] 创建一个简单的 2D 游戏角色控制。
+  - [x] 学习事件系统和消息传递机制。
+  - [x] 实践如何响应用户输入（触摸、键盘）。
+  - [x] 创建一个简单的 2D 游戏角色控制。
 
 第 3 天：物理引擎和碰撞检测（8 小时）
 
@@ -77,10 +92,10 @@
 
 第 5 天：资源管理和优化（8 小时）
 
-  - [ ] 学习资源管理，包括如何加载和卸载资源。
-  - [ ] 了解资源的预加载和异步加载。
-  - [ ] 学习性能优化技巧。
-  - [ ] 实践如何分析和优化游戏性能。
+- [x] 学习资源管理，包括如何加载和卸载资源。
+- [x] 了解资源的预加载和异步加载。
+- [ ] 学习性能优化技巧。
+- [ ] 实践如何分析和优化游戏性能。
 
 第 6 天：多人游戏和网络编程（8 小时）
 
@@ -113,6 +128,10 @@
 
 #### 坑
 
+- 常见的坑
+  - CocosCreator 2D物理系统坑爹二三事_1 uncaught error at b2body.setactive (box2d.umd.js-CSDN博客](https://blog.csdn.net/u013040821/article/details/137863723)
+
+- 
 - cocos 生态不行，unity 一堆插件
 - 编辑器跟屎一样的，我才不要纠结，我不会被捆住
   - 视角还不能保存缩放比例的
@@ -147,9 +166,22 @@
 
 - 
 
+快捷键
+
+- 展开、折叠：左右方向键
+- 打开面板：ctrl+1、2、4
+
+
+
+- [ ] 
+
 
 
 ## 编辑器
+
+热更新啥时候生效？
+
+- 我说的热跟新是本地的行为
 
 如何控制场景视角？
 
@@ -242,6 +274,38 @@
 - 移动节点
 - 
 
+视角怎么调？
+
+- 按1比1显示为啥没有快捷键？
+
+视图模式
+
+- 你要切换到2d模式，妈的之前一直在3d模式下看着
+
+怎么快速选中场景，不通过双击的方式？我讨厌双击
+
+- alt+f实现双击效果
+
+
+
+
+
+#### 动画编辑器
+
+添加帧
+
+修改属性
+
+- 
+
+批量操作
+
+- 还可以批量选中、拷贝、删除
+
+
+
+
+
 
 
 ## 资源管理
@@ -252,6 +316,8 @@
 - 场景是容器，一个游戏是由很多场景组成
 
 教程：[Asset Manager 概述 | Cocos Creator](https://docs.cocos.com/creator/3.8/manual/zh/asset/asset-manager.html#加载管线)
+
+
 
 #### 资源加载
 
@@ -285,6 +351,11 @@ load 和 preload 都是异步的
 播放
 
 - 一般是跟按键绑定的，比如攻击、防御
+
+通过获取组件的方式来控制播放、暂停
+
+- play
+- pause
 
 
 
@@ -328,6 +399,26 @@ load 和 preload 都是异步的
 
 
 
+什么时候需要分一个包
+
+资源包的获取
+
+- 
+
+bundle对象的获取
+
+- assetManager.getBundle
+
+怎么判断全部资源都参与打包了？
+
+怎样避免重复加载？
+
+- assetManager.getBundle
+
+bundle.load方法
+
+
+
 #### 管线
 
 ：其实就是一个串联组合
@@ -368,8 +459,9 @@ load 和 preload 都是异步的
 
 - crd 操作，添加、获取、销毁操作
   - 查找：查找子节点、全局查找
-    - getChildByName
     - find
+    - getChildByName
+    - 
 - 变换：移动、旋转、缩放
   - 移动：通过指定目标点、增量
     - setPosition、node.position、node.position.x
@@ -394,6 +486,12 @@ load 和 preload 都是异步的
 监听节点事件
 
 - on、off
+
+节点上只能绑定一些常规事件，比如暂停，恢复
+
+- 
+
+
 
 
 
@@ -471,6 +569,10 @@ systemEvent
 
 ## 动画系统
 
+为啥叫缓动？
+
+- 不是表示移动的慢，而是表示动画流畅
+
 不写一行代码或少量代码，通过 cocos 的配置来实现动画
 
 动画剪辑
@@ -487,7 +589,17 @@ systemEvent
 
 - 很多角色都有动画的
 
+#### 帧动画
 
+
+
+
+
+#### 骨骼动画
+
+做骨骼动画能做很多很有意思的事情，不如跑步，跳跃，攻击，防御，受伤，
+
+- 更加流畅
 
 
 
@@ -512,6 +624,14 @@ systemEvent
 - 粒子属性、方法
   - stopSystem
   - resetSystem
+
+
+
+## shader
+
+可以用于实现光影、粒子、材质效果
+
+
 
 
 
@@ -561,7 +681,7 @@ systemEvent
 
 ## 地图
 
-：即 tilemap
+：即tilemap，常用tile来zhi'zuo
 
 教程
 
@@ -647,11 +767,34 @@ systemEvent
 
 适配策略
 
-- 是否允许有黑边
+- 允许黑边
+- 允许内容裁剪
 
 
 
-刘海屏，水滴屏
+可能要借助widget组件，来实现内容适配
+
+- 竖屏+widget，调整好百分比
+  - 或者是使用代码去控制百分比
+
+
+
+竖屏
+
+- 一般选择适配宽度
+  - 但是会出现地图衔接不上的问题，如何解决
+    - 可能是我高度数值不能写死，需要动态计算
+    - 也可能是通过配置画布、mask解决
+
+
+
+刘海屏，挖空屏，水滴屏
+
+- 小米10s就是挖空屏
+
+好像不需要写代码去进行适配，只需要配置一下项目的适配
+
+- 
 
 
 
@@ -756,10 +899,15 @@ res 与 resources 区别：
 
 
 
-sdk 就是第三方包
+sdk 就是第三方包，相当于npm包
 
 - 可以减少开发者的工作量，同时减少出错率，统一标准
 - 玩家也可以有更好的体验
 
 
 
+bundle管理
+
+- 
+
+#### 
