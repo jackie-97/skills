@@ -1,121 +1,39 @@
+这个文档只在我学习阶段补充，在做项目的时候只写另一个文档
+
 教程
 
 - 学习路线？？？
   - https://www.cnblogs.com/bycw/p/17843263.html
-- 官网：[Cocos Creator 3.8 API - Tween](https://docs.cocos.com/creator/3.8/api/zh/class/Tween)
-- up主推荐
-  - blake老师：[Cocos (bycwedu.com)](https://www.bycwedu.com/customize?cate=710180854)
-  - [Sli97的个人空间-Sli97个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/303957852)
-  - [俊哥全栈游戏之路的个人空间-俊哥全栈游戏之路个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/1271816316)
-  - [第九艺术搬运工的个人空间-第九艺术搬运工个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/1410363291/?spm_id_from=333.999.0.0)
-  - 面试
-    - [程序员长风的个人空间-程序员长风个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/50743344/?spm_id_from=333.999.0.0)
   
-- - 
 - 论坛
-  - [Cocos 中文社区 - Cocos 中文社区](https://forum.cocos.org/)
-  - [Cocos Creator - Cocos Creator 技术, 学习, 经验文章 - 掘金 (juejin.cn)](https://juejin.cn/tag/Cocos Creator)
-- 入门
-  - [【干货】Cocos Creator 新手教程：商业级项目案例及源码分析【强烈推荐 4 合 1】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1je4y1Z7Us/?spm_id_from = 333.788.recommend_more_video.4&vd_source = 522153461914a766fc002cc8619314e4)
-  - [灿烂的星海游戏视频专辑-灿烂的星海游戏视频合集-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/107071488/channel/series)
-  - [Cocos Creator3.8 零基础小白入门教程 ｜cocos2dx｜ 游戏开发 ｜ 游戏制作 ｜TS｜Typescript｜ 游戏编程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18m421L7Ac/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
-  - [CocosCreator 入门教程之 2D 游戏开发【持续更新—第 23 集】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11W4y1T7ip/?spm_id_from = 333.337.search-card.all.click&vd_source = 522153461914a766fc002cc8619314e4)
-  - [【Cocos Creator 基础教程】最新 3.x 新手入门系列教程【共 29 集】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12s4y1X7ps/?spm_id_from = 333.337.search-card.all.click&vd_source = 522153461914a766fc002cc8619314e4)
-- 在线案例
-  - [cocos/cocos-test-projects (github.com)](https://github.com/cocos/cocos-test-projects)
-- 项目
-  - [俊哥全栈游戏之路投稿视频-俊哥全栈游戏之路视频分享-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/1271816316/video?tid=0&special_type=&pn=1&keyword=&order=stow)
+
+  - 官网：[Cocos Creator 3.8 API - Tween](https://docs.cocos.com/creator/3.8/api/zh/class/Tween)
+
+  - 掘金：https://juejin.cn/user/1972988307323236
+
+- awesome
+
+- up主推荐
+  - [程序员长风的个人空间-程序员长风个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/50743344/?spm_id_from=333.999.0.0)
+  - 列表：https://forum.cocos.org/about
+  - 
+  
 - 关卡设计
   - [如何设计好玩的游戏关卡？四个原则打造极致体验_单机游戏热门视频 (bilibili.com)](https://www.bilibili.com/video/BV14H4y1z7ar/?spm_id_from=333.999.0.0&vd_source=522153461914a766fc002cc8619314e4)
+
 - 学习路线
   - [游戏开发学习路线推荐_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ms421A7fp/?spm_id_from=333.788&vd_source=522153461914a766fc002cc8619314e4)
-- 素材网站
-  - [推荐我常用的游戏素材网站_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fC41177Cp/?spm_id_from=333.788&vd_source=522153461914a766fc002cc8619314e4)
-- 游戏素材
-  - [直升机类相关游戏进化史 [1979 - 2021\] 作者：Video Games Evolution_单机游戏热门视频 (bilibili.com)](https://www.bilibili.com/video/BV1Wk4y1n7Q1/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
 
-
+  
 
 ## 关键问题
 
-没有学习路线，没有项目亮点，这2个是最可怕的！会导致你如同大海一叶孤舟，失去方向，失去船帆！
-
-- 
 
 
 
-#### 学习计划
 
-：从 8 月 28 日开始，最重要的是指导什么是重要的，比如时间、速度，什么是不重要的，
+#### 注意事项
 
-入门 Cocos 并掌握关键要点的学习计划可以如下安排。请注意，这个计划假设你已经具备一定的编程基础，特别是对 JavaScript 或 TypeScript 有一定的了解。如果你使用的是 Cocos Creator，那么对 JavaScript 或 TypeScript 的了解将是必要的。
-
-第 1 天：Cocos Creator 基础（8 小时）
-
-  - [x] 安装 Cocos Creator IDE。
-  - [x] 熟悉 Cocos Creator 界面和工作流程。
-  - [x] 完成官方的“Hello World”教程。
-  - [x] 学习 Cocos Creator 的项目结构和基本组件。
-
-
-  - [x] 学习节点（Node）和场景（Scene）的概念。
-  - [x] 了解如何创建和操作 UI 元素。
-  - [ ] 学习使用属性检查器和层级管理器。
-  - [ ] 创建一个简单的滚动背景场景。
-
-第 2 天：2D 游戏基础（8 小时）
-
-  - [x] 学习 2D 游戏对象和精灵（Sprite）的使用。
-  - [x] 了解锚点和坐标系统。
-  - [x] 学习如何使用和创建动画（Animation）。
-
-
-  - [x] 学习事件系统和消息传递机制。
-  - [x] 实践如何响应用户输入（触摸、键盘）。
-  - [x] 创建一个简单的 2D 游戏角色控制。
-
-第 3 天：物理引擎和碰撞检测（8 小时）
-
-  - [ ] 学习 Cocos Creator 中的物理引擎。
-  - [ ] 了解刚体（RigidBody）和碰撞器（Collider）。
-  - [ ] 实践如何设置物理材质和碰撞检测。
-  - [ ] 创建一个包含物理交互的游戏场景。
-  - [ ] 学习如何处理碰撞事件。
-  - [ ] 优化物理性能和调试物理问题。
-
-第 4 天：深入游戏逻辑和脚本编写（8 小时）
-
-  - [ ] 学习 Cocos Creator 的脚本系统。
-  - [ ] 编写自定义脚本来控制游戏逻辑。
-  - [ ] 学习如何使用 Cocos Creator 的 API。
-  - [ ] 实践创建更复杂的游戏机制，如计分系统。
-
-第 5 天：资源管理和优化（8 小时）
-
-- [x] 学习资源管理，包括如何加载和卸载资源。
-- [x] 了解资源的预加载和异步加载。
-- [ ] 学习性能优化技巧。
-- [ ] 实践如何分析和优化游戏性能。
-
-第 6 天：多人游戏和网络编程（8 小时）
-
-  - [ ] 了解 Cocos Creator 中的多人游戏开发。
-  - [ ] 学习基础的网络编程概念。
-  - [ ] 实践创建一个简单的多人游戏原型。
-  - [ ] 学习如何使用 Cocos Creator 的网络功能。
-
-第 7 天：项目实战和发布（8 小时）
-
-  - [ ] 开始一个自己的小项目，将之前学到的知识综合应用。
-  - [ ] 学习如何打包和发布游戏到不同的平台。
-  - [ ] 完成项目并准备发布。
-
-学习资源：
-- Cocos Creator 官方文档和教程。
-- 在线课程和视频教程。
-- 官方论坛和社区支持。
-
-注意事项：
 - 每天的学习都要确保有足够的时间来实践和消化所学内容。
 - 不要忘记休息和避免疲劳。
 - 如果某个主题需要更多时间，可以适当调整计划。
@@ -124,37 +42,36 @@
 
 
 
+## 坑
 
+为啥教程这么少？https://forum.cocos.org/t/topic/152443
 
-#### 坑
+unity的威胁：https://forum.cocos.org/t/topic/152124
 
-- 常见的坑
-  - CocosCreator 2D物理系统坑爹二三事_1 uncaught error at b2body.setactive (box2d.umd.js-CSDN博客](https://blog.csdn.net/u013040821/article/details/137863723)
+- cocos要凉了，能转就快点转
+
+https://forum.cocos.org/t/topic/131360
 
 - 
-- cocos 生态不行，unity 一堆插件
-- 编辑器跟屎一样的，我才不要纠结，我不会被捆住
-  - 视角还不能保存缩放比例的
-  - 每次自动调整的比例跟屎一样
-  - 开发过程中不支持热更新，需要重新开启项目
-    - 
 
-- 脚本要挂载到节点上才能生效
-- 编辑器的主题需要改成白色
-- 配置不生效的问题
-  - 可能要配合某些东西才能生效
-  - 数值设置的太小了，或者是太大了，不明显
-  - 维度设置错了，
-  - 
+编辑器跟屎一样
 
+- 老是不更新视图
 
-- 问一下重点是啥，我不可能全都学啊
-- 组件要多了解一下，不然我都不知道某个功能需要靠组件来完成
+论坛也跟屎一样
+
+- 永远只有入门问题
+
+没有多少实用demo，官方也不出，社区也不出
+
+- 严重阻碍学习效率
+
 - 
 
 
 
-#### 技巧
+
+## 技巧
 
 要找一下面试题，才知道重点在哪里
 
@@ -171,9 +88,9 @@
 - 展开、折叠：左右方向键
 - 打开面板：ctrl+1、2、4
 
+出现报错多去官网、github搜一下
 
-
-- [ ] 
+- 记得关键字要选对，不然没法搜到问题
 
 
 
@@ -304,7 +221,16 @@
 
 
 
+空指针问题
 
+- 可能是项目内存分配的设置太小了，改一下即可：https://forum.cocos.org/t/topic/138971/4
+- 
+
+
+
+有没有切图的功能？
+
+- 
 
 
 
@@ -386,7 +312,9 @@ load 和 preload 都是异步的
 - 通过引用，然后拖拽赋值
 - 通过 load 方法
 
+在预制体中依赖另一个节点，如何定义获取？
 
+- 
 
 #### asset bundle
 
@@ -397,7 +325,7 @@ load 和 preload 都是异步的
 - 获取
 - 删除
 
-
+:smiley:
 
 什么时候需要分一个包
 
@@ -425,6 +353,12 @@ bundle.load方法
 
 
 
+- 
+
+
+
+
+
 
 
 ## 场景
@@ -447,7 +381,9 @@ bundle.load方法
 - 一般使用本地坐标
 - 除了相机、碰撞相关的，使用世界坐标
 
+原点在左下角
 
+- 
 
 
 
@@ -469,6 +405,8 @@ bundle.load方法
     - 
 - 激活
 - 可见性
+  - 通过node.active=false
+
 
 基于关系的操作
 
@@ -491,11 +429,30 @@ bundle.load方法
 
 - 
 
+layer
+
+：决定了节点是否能被相机看见
+
+子节点默认继承父节点的layer
+
 
 
 
 
 ## 组件
+
+
+
+常见操作
+
+- crd组件
+- 控制组件的执行顺序
+
+为啥要控制组件的执行顺序？
+
+- 因为某些组件依赖于其他组件
+
+
 
 #### 渲染组件
 
@@ -589,13 +546,25 @@ systemEvent
 
 - 很多角色都有动画的
 
+
+
 #### 帧动画
 
+记得要先加入帧组件cai'xing
 
+怎样快速制作帧动画？
+
+- 通过选中一批图片然后拖入就可以完成批量插入咯
+
+怎样快速调整帧间隔？
+
+- 
 
 
 
 #### 骨骼动画
+
+：看spine那块
 
 做骨骼动画能做很多很有意思的事情，不如跑步，跳跃，攻击，防御，受伤，
 
@@ -625,19 +594,21 @@ systemEvent
   - stopSystem
   - resetSystem
 
+首先考虑做一个奔跑烟尘的练练手
+
+- 
+
 
 
 ## shader
+
+https://forum.cocos.org/t/topic/153452
 
 可以用于实现光影、粒子、材质效果
 
 
 
 
-
-## 碰撞检测
-
-我 2d 游戏可以用 3d 的碰撞检测？
 
 
 
@@ -647,17 +618,38 @@ systemEvent
 
 ## 物理系统
 
-：也叫物理引擎，分 buildin-2d 和 box-2d，前者只支持简单的碰撞检测，后者支持更多
+：也叫物理引擎，分 buildin-2d 和 box-2d，前者只支持简单的碰撞检测，后者支持更多，主要用box-2d
 
-关注点，口诀：刚碰关
+#### 刚体
 
-- 刚体
-- 碰撞体
-- 关节
+：主要
 
 
 
+#### 碰撞体
 
+是否发生碰撞取决于碰撞体的分组，而不是刚体的分组
+
+实操发现碰撞体的中心点没有跟随节点的锚点
+
+- 一直在左下角
+
+
+
+offset是设置距离锚点的位置，如果锚点默认是在左下角，那么你就需要
+
+- 
+
+锚点就是节点的中心点，但是不一定在节点的中心位置
+
+- 节点的移动、缩放都是依靠这个
+- 锚点
+
+
+
+#### 碰撞检测
+
+我 2d 游戏可以用 3d 的碰撞检测？
 
 
 
@@ -665,7 +657,11 @@ systemEvent
 
 ## 插件
 
+：基本没有，cocos社区跟坟场一样
 
+
+
+- 
 
 
 
@@ -679,147 +675,80 @@ systemEvent
 
 
 
-## 地图
-
-：即tilemap，常用tile来zhi'zuo
-
-教程
-
-- [【无废话教程】在 Tiled 中制作动画瓦片图并导入 Cocos Creator 引擎_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1P54y1F78b/?spm_id_from=333.999.0.0&vd_source=522153461914a766fc002cc8619314e4)
-
-
-
-地图怎么生成？
-
-- 使用别人创建好的地图
-- 通过程序去编辑
-  - cocos 内置的
-  - tiled
-- 图片
-- 建模
-
-
-
-
-
-
-
-## 项目开发
-
-整体开发流程
-
-- 了解游戏类型，主要玩法
-- 准备素材
-  - 不一定是你来准备
-
-- 先玩一下当前或者是相似游戏，了解主要玩法
-  - 攻击、防御、地形、
-- 阅读游戏策划案，了解细节
-- 阅读代码
-  - 了解目录结构
-
-
-
-
-
-#### 素材
-
-图片素材
-
-- 借助 ai：搜“ai 像素动画”
-  - [【像素动画工作流】不懂美术照样做动画_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Jt421K7cK/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
-  - [AI 画一切！生成像素风游戏各类素材 Midjourney 关键词推荐_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1cX4y1U7M5/?spm_id_from=333.788.recommend_more_video.2&vd_source=522153461914a766fc002cc8619314e4)
-- 借助生成器：[完全免费的 2D 角色动画生成器_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1xh4y167wH/?spm_id_from=333.788.recommend_more_video.4&vd_source=522153461914a766fc002cc8619314e4)
-
-- 自己画
-  - 这个效率较低，但是可控，而且长期来看收益高
-
-- 看别人是怎么弄的
-
-
-
-音乐素材
-
-：比如 bgm 和打击音效
-
-
-
-
-
-项目的目录结构，有哪些常见的东西
-
 - 
 
 
 
-## 测试
 
-目标
 
-- 发现游戏 bug、性能问题
-- 确保游戏平衡
-- 做有效的测试，保证测试速度
-- 
+## 性能分析&优化
+
+https://www.bilibili.com/video/BV1TC411G7Gz/?spm_id_from=333.999.list.card_archive.click&vd_source=522153461914a766fc002cc8619314e4
+
+
+
+## 相机
+
+：我们最终看到的游戏效果是一个或多个相机叠加的结果！
+
+多相机
+
+：他们的visibility可以交叉，比如default、
+
+画布本身没有层级的概念
+
+- 只是为了方便快速修改它子节点的层级
+
+相机的几个参数不了解
+
+- Priority：值越大，越显示越靠前，能覆盖后面的
+- clear flags：需要清除哪些缓冲，一般选清除深度缓冲即可
+- clear color: 相机颜色缓冲默认值
+- clear depth: 深度缓冲默认值
 
 
 
 ## 适配
 
-适配策略
-
-- 允许黑边
-- 允许内容裁剪
+https://www.cnblogs.com/gamedaybyday/p/12069570.html
 
 
 
-可能要借助widget组件，来实现内容适配
+## 广告接入
 
-- 竖屏+widget，调整好百分比
-  - 或者是使用代码去控制百分比
+分微信、抖音
 
+教程
 
-
-竖屏
-
-- 一般选择适配宽度
-  - 但是会出现地图衔接不上的问题，如何解决
-    - 可能是我高度数值不能写死，需要动态计算
-    - 也可能是通过配置画布、mask解决
+- https://www.bilibili.com/video/BV1Ja4y1T7bh/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4
 
 
-
-刘海屏，挖空屏，水滴屏
-
-- 小米10s就是挖空屏
-
-好像不需要写代码去进行适配，只需要配置一下项目的适配
 
 - 
 
 
 
-## 发布
-
-发布到各个平台，或者是打包到本地玩一下
+## 游戏框架
 
 
 
-## 安全问题
+关键
 
-如何防止对方篡改？
-
-- 配置文件
-- 对象：只能通过方法去调用，而不能通过 window 对象直接获取
-
-
-
-## 性能优化
-
-对象池
-
-如何减少
+- 框架能做啥东西？
+- 怎么找？
+- 怎么学习？
+- 怎么做自己的框架？
+- 
 
 
+
+教程
+
+- 前端开发框架：https://forum.cocos.org/t/topic/150588
+- puremvc：
+- https://forum.cocos.org/t/topic/100941
+- https://forum.cocos.org/t/topic/100942
+- https://forum.cocos.org/t/topic/137215/12
 
 
 
@@ -910,4 +839,21 @@ bundle管理
 
 - 
 
-#### 
+原点
+
+- 
+
+精灵与纹理区别
+
+- 会动的才是精灵
+- 不会动的是纹理
+
+
+
+节点所处位置与节点的layer对于渲染顺序的影响，哪个优先级更高？
+
+- 先看layer
+- 再看位置
+
+
+

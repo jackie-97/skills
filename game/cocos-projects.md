@@ -2,12 +2,31 @@
 
 教程
 
+- [入门](https://www.bilibili.com/video/BV14i4y1o7YF?p=70&vd_source=522153461914a766fc002cc8619314e4)
+  
 - awesome 系列：有很多成品
+  
+  - https://gitee.com/yeshao2069/CocosCreatorDemos?_from=gitee_search#https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.8.x/demo/2d/Creator3.8.0_2D_ScrollingBackground
+    - 原来他妈的他们在gitee上分享项目
+  - 综合：https://www.bilibili.com/video/BV1SR4y1C78Y/?vd_source=522153461914a766fc002cc8619314e4
+  - [各种功能](https://github.com/ifengzp/cocos-awesome)
   - [Leo501/awesome-CocosCreator: Cocos Creator 游戏资源合集 (github.com)](https://github.com/Leo501/awesome-CocosCreator?tab=readme-ov-file)
+  - https://mp.weixin.qq.com/s/ow_kO8vYud-29zM71WBAvA
+  - [可视化搭建游戏](https://gamemaker.weixin.qq.com/#/gallery)
+    - 可视化搭建出来的都比你目前强多了
+  
+  - [性能分析、优化](https://www.bilibili.com/video/BV1pE421A7TA/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
+  - [官方教程](https://www.bilibili.com/video/BV1At411s7xN/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
+  
+- 功能
+  - 列表渲染：https://github.com/gh-kL/cocoscreator-list?tab=readme-ov-file
+  
+- 工具
+  - https://docs.cocos.com/creator/3.8/manual/zh/getting-started/support.html#%E6%BC%94%E7%A4%BA%E5%92%8C%E8%8C%83%E4%BE%8B%E9%A1%B9%E7%9B%AE
 
 - 求职
-
   - [Unity岗位外包化，外包和小厂比去哪个？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1eu4m1T7KL/?spm_id_from=333.788&vd_source=522153461914a766fc002cc8619314e4)
+  - [求职项目](https://www.bilibili.com/video/BV1Sop5e6EgU/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
 
 
 
@@ -40,33 +59,50 @@ cocos写项目 2d多，还是3d多？
 
 
 
-项目计划
+#### 项目计划
 
 - [x] 飞机大战
   - [CocosCreator3.8 入门教程-微信飞机大战 ｜ 微信小游戏 ｜ 2D 游戏开发 ｜ 游戏制作 ｜ 独立游戏开发 ｜ cocos ｜ 游戏引擎 ｜ typescript ｜ ts\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1csHseJETT/?spm_id_from = 333.788.recommend_more_video.1&vd_source = 522153461914a766fc002cc8619314e4)
   - [两天入门cocos开发飞机大作战使用 Cocos Creator 3.x 制作一个简单的飞机大作战游戏。通过这个实践，将 - 掘金 (juejin.cn)](https://juejin.cn/post/7282605849708986403?searchId=20240921121317BF5C7EDB2E923EE525AE#heading-16)
-- [ ] 贪吃蛇https://www.bycwedu.com/customize_video/314344774/1841007415/1219583649?back=1&promoter_id=1633817265
+- [ ] [贪吃蛇](https://www.bycwedu.com/customize_video/314344774/1841007415/1219583649?back=1&promoter_id=1633817265)
 - [x] 消消乐：[cocos 实现消消乐小游戏上一篇学习了两天入门 cocos 开发飞机大作战，接下来进阶实现一个消消乐游戏，相比飞机大作战来说 - 掘金 (juejin.cn)](https://juejin.cn/post/7289718324857716793#heading-42)
-- [ ] 2d跳跃游戏：超级马里奥
+- [ ] 横板2d跳跃游戏：
+  - [超级玛丽](https://www.bycwedu.com/customize/1571938641/play?v=759498491)
+  
+  - [超级马里奥](https://www.bilibili.com/video/BV19g411T7Qc/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
+  
+  - https://www.bilibili.com/video/BV1W14y1D7ud/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4
+  
+  - [别人4天的结果](https://www.bilibili.com/video/BV1HL4y1e7jA/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
+  
+  - [天天ku'pao](https://www.bilibili.com/video/BV19x411s7Fy?p=2&vd_source=522153461914a766fc002cc8619314e4)
+  
+  - 大二居然做出来了[空洞骑士](https://www.bilibili.com/video/BV13y4y1E7RD/?spm_id_from=333.999.0.0)
+  
 - [ ] 2d rpg游戏
   - [ ] 死亡空间：[[Cocos Creator 游戏开发教学\]Steam 游戏《Cramped Room Of Death》复刻教程（已完结）\_哔哩哔哩 bilibili](https://www.bilibili.com/video/BV1JL4y1M7Y4/?spm_id_from = 333.337.search-card.all.click&vd_source = 522153461914a766fc002cc8619314e4)
+  - [ ] [地下城](https://space.bilibili.com/34380011/channel/seriesdetail?sid=251396)
+  - [ ] [很全的](https://www.bilibili.com/video/BV1eL4y1i7pa/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
+  - [ ] 4天搞出来的：https://www.bilibili.com/video/BV1TC411G7Gz/?spm_id_from=333.999.list.card_archive.click&vd_source=522153461914a766fc002cc8619314e4
+  - [ ] 
 - [ ] 飞行棋：https://www.bilibili.com/video/BV1Exsue5EqC?p=5&vd_source=522153461914a766fc002cc8619314e4
 - [ ] 黄金矿工https://www.bycwedu.com/customize_video/375844032/1841007415/1219583649?back=1&promoter_id=1633817265
 - [ ] 坦克大战https://www.bycwedu.com/customize_video/1521261081/1841007415/1219583649?back=1&promoter_id=1633817265
-- [ ] 
+- [ ] [像素鸟](https://www.bilibili.com/video/BV19G4y177Vv?p=5&vd_source=522153461914a766fc002cc8619314e4)
 - [ ] 切水果
-- [ ] 植物大战僵尸
+- [ ] 森林冰火人
+- [ ] 植物大战僵尸：https://www.bilibili.com/video/BV1bm42137Dm?p=7&vd_source=522153461914a766fc002cc8619314e4
 - [ ] 山地越野
 - [ ] 愤怒的小鸟
+- [ ] 魔塔
+  - 这个有中国的社区，人很多可以看下他们是怎么制作的
 - [ ] 超级玛丽
-- [ ] 冰与火游戏
 - [ ] 黑洞大作战
 - [ ] 合成西瓜
 - [ ] 魂斗罗
 - [ ] 跑酷
 - [ ] 塔防游戏：https://www.bycwedu.com/customize_video/857302257/1841007415/1219583649?back=1&promoter_id=1633817265
 - [ ] 城市天际线
-- [ ] 
 - [ ] 胡闹厨房
 - [ ] 火柴人大战
 - [ ] cocos 插件：补一个白色的，傻逼玩意
@@ -78,7 +114,40 @@ cocos写项目 2d多，还是3d多？
 
 
 
+#### 商城
+
+：有些可以直接拿来用，有些则是提供一些思路
+
+- https://store.cocos.com/app/detail/4525
+- https://store.cocos.com/app/detail/3117
+- https://store.cocos.com/app/detail/5691
+
+
+
 ## 技巧
+
+很多你认为的重点，不是重点
+
+- 很多事情并不是你想象的那样，你的思考方向是错的
+- 比如地图根本就是平的，然后其他不平的
+
+刚开始做的你只需要考虑制作效率
+
+- 不要考虑性能问题，你先做出来就好
+  - 比如多建立几个节点是没关系的
+- 如果啥都要考虑，按最优的方式来，那我整件事就不用做了，做不成的
+
+cocos商店里找学习项目
+
+- 有些作者会出些教程：https://space.bilibili.com/27465629
+
+调试时不要重启
+
+- 直接修改参数即可
+
+多看几个开发工具
+
+- 你会发现很多你认为的难题，在其他工具目前都是顺手的事情，自带解决方案，不用xie'dai'ma
 
 开发步骤
 
@@ -124,7 +193,101 @@ cocos写项目 2d多，还是3d多？
 
 - 一般是聚焦一个摄像头之后，就不按f咯
 
+怎样方便的打印一些信息
 
+- 不要再update中打印，太频繁了
+
+
+
+## 常见的坑
+
+：记录自己被卡顿，掉坑里的点
+
+- 很多时候效率低，或者是功能没法做，是因为这个垃圾工具的问题不是我的问题！傻逼玩意我不可能跟着你们消耗的，我不考虑你妈的性能问题
+  - 比如cocos不支持tilemap中定义的碰撞体
+
+- 只有api教程，项目教程巨几把少，很少谈及游戏逻辑的
+  - 根本没人讨论，也没有项目
+- 更新节点位置，只能通过setPosition，或者是直接覆盖position属性
+  - 只修改position.x之类的是不会起作用的
+
+  - 还有不能直接对position进行add、substract，而是要用一个new Vec3或者是clone来复制一份
+  
+- 添加碰撞体非常麻烦，既不能直接编辑地形、碰撞体，也不支持拷贝操作
+  - 要么用预制体咯
+
+- 记得功能裁剪的问题
+  - 使用某项功能时一定要先打开
+
+- CocosCreator 2D物理系统坑爹二三事_1 uncaught error at b2body.setactive (box2d.umd.js-CSDN博客](https://blog.csdn.net/u013040821/article/details/137863723)
+- cocos 生态不行，unity 一堆插件
+- 编辑器跟屎一样的，我才不要纠结，我不会被捆住
+  - 视角还不能保存缩放比例的
+  - 每次自动调整的比例跟屎一样
+  - 开发过程中不支持热更新，需要重新开启项目
+
+
+- 调试要重启服务，坑啊，大大减速
+
+- 脚本要挂载到节点上才能生效
+- 编辑器的主题需要改成白色
+- 配置不生效的问题
+  - 可能要配合某些东西才能生效
+  - 数值设置的太小了，或者是太大了，不明显
+  - 维度设置错了，
+  - 
+
+
+- 问一下重点是啥，我不可能全都学啊
+- 组件要多了解一下，不然我都不知道某个功能需要靠组件来完成
+- 丢失目标没有规划
+- 地图的制作
+
+  - 一直在翻找教程
+- 调试过程要重启
+- 修改了配置，场景编辑器不更新
+
+  - 只能通过cr来刷新
+  
+- 某一画布内容突然不显示
+
+
+- 检查一下vscode可能是脚本报错了
+- 碰撞检测没有触发
+
+  - 物理系统要开启
+  - 刚体的碰撞检测要开启
+
+- 看错了碰撞分组
+
+  - 不是layer下的，那个相机分组
+  - 而是物理下的分组，才是碰撞分组
+
+- 它是画布越靠前，显示越靠后，与一般的反过来的，傻逼玩意
+- 动画编辑器
+
+  - 居然是动画本身设置是否循环的优先级更高，如果它不设置为循环播放，那么你动画状态机设置了也没用
+
+- 使用了layout，会导致position获取不正确
+  - 因为它会自动调整节点的位置，比如你删除了第0个，它会自动把第1个排到前面
+  - 所以你要手动调整顺序的话，就不要用这个layout组件
+- 节点不会移动
+
+  - 设置position的方式不对，
+- 刚体哪怕是碰上了墙壁
+
+  - 它的速度也不一定是0，或者是接近0，可能是你设定的速度，只是不会移动
+
+- 为啥设置uistrasform的width、height无效？
+  - 因为组件之间会相互影响，比如label组件会影响uistrasform组件
+  - 建议多建立一个节点，专门存放label组件
+
+- 事件冒泡
+  - 有button组件会阻止冒泡
+- 为啥事件委托的回调里拿不到正确的target
+- 点击事件没反应
+  - 可能是你节点太小了，比如宽度或高度为0，点不到导致的
+- 
 
 ## 编辑器
 
@@ -158,6 +321,26 @@ cocos写项目 2d多，还是3d多？
 
 - 如何预览cocos 中的动画文件
 
+它的图层是从下往上的
+
+- ps则是从上向下的，我喜欢ps的设计
+
+要点击右下角的保存
+
+- 才能让动画配置生效
+
+如何快速添加碰撞体？
+
+- 
+
+为啥会挡住其他的画布？
+
+- 而且画布顺序并不能决定渲染顺序
+
+多边形的碰撞体怎么拉直线？
+
+- 按住啥键也没用啊
+
 
 
 ## 调试
@@ -165,6 +348,239 @@ cocos写项目 2d多，还是3d多？
 ：调试很重要，决定了你的开发效率，比如你死死找不出问题跟一下子找到问题是两码事
 
 
+
+
+
+项目主要内容
+
+：内容可选，但是面试可能会问到，你要准备一下
+
+
+
+## 新手指引
+
+
+
+
+
+## 地图
+
+教程基本都是用unity来制作的，要么就是goddot，
+
+教程
+
+- [Cocos Creator 配合Tiled地图的使用 - gamedaybyday - 博客园 (cnblogs.com)](https://www.cnblogs.com/gamedaybyday/p/13082169.html)
+- [组合碰撞体](https://forum.cocos.org/t/topic/148049)
+- https://gwb.tencent.com/community/detail/132931
+- https://www.bilibili.com/video/BV19E411u73G/?spm_id_from=333.999.0.0&vd_source=522153461914a766fc002cc8619314e4
+- [【无废话教程】在 Tiled 中制作动画瓦片图并导入 Cocos Creator 引擎_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1P54y1F78b/?spm_id_from=333.999.0.0&vd_source=522153461914a766fc002cc8619314e4)
+
+
+
+关注点
+
+- 创建地图
+- 物品的动画
+- 与角色的碰撞
+- 地图的随机生成
+
+怎么找素材？
+
+- 到inch、github下载
+
+地图生成？
+
+- 使用别人创建好的地图
+- 是在tile中制作好地图，还是在cocos拿素材来拼接
+  - cocos
+    - 优点：可以不断地复制粘贴
+    - 缺点：地图缝合可能会有一些缝隙，而且刚体绘制比较耗时间
+    - 
+
+  - title
+    - 然后用cocos来指定碰撞体
+
+- 通过自己编写程序去生成地图
+- 通过软件去制作
+  - 用tiledmap来编辑
+  - cocos只支持使用，不支持编辑瓦片图
+
+- 图片
+- 建模
+
+碰撞体生成？
+
+- 通过程序生成
+
+  - 这种只能是简单地图的，复杂地图做不了
+  - 因为地图要反复的改动，所以推荐你简单地图直接用程序来生成碰撞体
+
+- 通过cocos，较慢，cocos就是傻逼玩意，unity就很快，直接按一个图层给你生成，极快加速开发效率
+
+  - 技巧：先整体，后局部，尽量搞简单点地形，因为是练手，没必要复杂
+
+  
+
+
+
+地图一般是美术给你弄好的，不是让你从0开始去弄得
+
+- 你不要搞错了职责
+
+
+
+#### tilemap
+
+bug
+
+- 
+
+选中图块
+
+- 按ctrl
+- 按shift
+- 反向选中对应的图块：右键
+
+动画
+
+- 单个
+
+图层
+
+- 分road、wall、bg
+
+- 如何分层？
+
+怎样根据别人给的png图片来制作地图？
+
+- 
+
+怎样导入别人的做好的地图素材？
+
+- 要拿到它的tmx文件
+
+怎么制作图块集？
+
+- 左下角新建图集，
+
+大地图，长地图怎么做的？
+
+- 使用脚本生成
+- 使用tilemap，但是分成多个tilemap来拼接，动态加载
+
+怎么制作没有背景色的图集
+
+- 需要png本身是没有背景色的
+
+操作
+
+- 擦除
+  - 在哪个图层上操作，它能够限定作用范围在哪个图层
+- 绘制
+  - 可以单选，也可以多选绘制
+- 怎样提高效率？
+  - 分层
+  - 多复制粘贴，做好一个然后一整个复制黏贴
+
+选中
+
+- 如何选中地图上已有的图块？然后进行印刷
+- 
+
+对象层
+
+- 主要用于存放主角、npc、金币、宝箱、
+
+图块
+
+- 添加属性
+
+为啥要进行分层控制？
+
+- 提高容错率，避免误伤，比如地板涂多了，然后被墙体覆盖了，就不会有错误图像显示
+- 能快速选中你要的那一部分，比如我要拷贝墙体部分，做了分层，就不会拷贝到地板咯
+
+
+
+撞墙效果
+
+- 通过代码拿到图层，然后这这个图层设置碰撞体
+  - 然后墙壁薄薄的一层要单独为1层，这样就可以根据它来生成对应的碰撞体了
+
+- 通过给某些块组件设置自定义属性，这样就可以根据是否有自定义属性来决定
+  - 缺点：这种效率太低了，没法玩咯
+- 通过编辑器设置碰撞体
+
+怎样在编辑器预览中显示碰撞体？
+
+- 需要在代码开启一下，才会显示，如debugDrawFlags=true
+
+打开tmx与tsx是有区别的
+
+- 
+
+图块如何裁剪？
+
+- 软件辅助：unity可以预览裁剪效果，有辅助线，
+- 文档
+  - 一般都会有尺寸文档说明，图块尺寸为多少，间距为多少
+  - 
+
+边距与间距区别
+
+- 边距是图块集四周的空白区域
+- 间距则是图块与图块的距离，一般设置这个即可
+
+
+
+角色移动莫名其妙卡住的问题
+
+- 调整碰撞体大小，调大一点一些
+- 调整移动速度，不要为方块的倍数，防止刚好卡住
+
+
+
+## 技能树
+
+
+
+## 数值开发
+
+：https://space.bilibili.com/481436151/channel/collectiondetail?sid=1094256
+
+
+
+## 战斗
+
+
+
+## 背包
+
+
+
+## 养成
+
+
+
+## 周边系统
+
+：比如游戏补丁、游戏教程、商城、
+
+
+
+## 活动
+
+
+
+## 广告
+
+
+
+
+
+
+
+- 
 
 
 
@@ -218,22 +634,6 @@ asset bundle
 - 大的音频文件夹
 - 大的场景
 - 脚本文件夹，这个一般不用分包
-
-
-
-
-
-
-
-## 素材制作
-
-[Cocos2d-x 3.x plist+png 做动画 - blfshiye - 博客园 (cnblogs.com)](https://www.cnblogs.com/blfshiye/p/4797222.html)
-
-- 然后可以根据名字来获取指定的图片
-
-
-
-以项目类型进行总结
 
 
 
@@ -1137,3 +1537,234 @@ typora有没有折叠功能的
 
 - [ ] 总结开发过程中遇到的问题和解决方案。
   规划后续的更新和改进计划。
+
+
+
+## 死亡空间
+
+撞墙效果如何实现？
+
+- 通过碰撞体
+- 通过触发器
+
+
+
+# mario
+
+#### 游戏策划
+
+得分
+
+- 杀死敌人
+- 获取物品
+
+胜利条件
+
+- 玩家接触到某个东西，如旗帜，而不是拿到某个东西或者是杀死全部敌人
+
+死亡条件
+
+- 碰到敌人
+
+
+
+#### 开发计划：3天
+
+**第一天**
+
+- [x] 玩法
+- [x] 地图制作
+- [x] 场景制作
+
+
+
+**第二天**
+
+- [x] 角色的移动、跳跃
+- [ ] 相机跟随
+- [ ] 敌人的生成
+- [ ] 玩家受伤、死亡
+- [ ] 玩家血量
+- [ ] 得分
+- [ ] 多关卡实现
+
+需求
+
+角色移动
+
+- 前进方向碰到障碍物不能移动
+- 可选
+  - 补充加速、减速功能
+  - 动画
+  - 声音
+
+角色跳跃：3h
+
+- 不支持2连跳，只有站在地上才能跳跃
+
+
+
+相机跟随
+
+
+
+视差背景：1h
+
+
+
+多关卡实现
+
+
+
+敌人的生成
+
+
+
+玩家血量
+
+
+
+得分
+
+
+
+#### 实施
+
+如何把节点内容沾满节点节点？
+
+- 比如地图
+
+为啥要修改地图锚点为左下角？
+
+- 
+
+位置position与锚点archor关系？
+
+- 位置是与父节点的位置，其中父节点canvas的锚点，位置都不可以改变
+
+怎样隐藏canvas的线框？
+
+啥时候要调整节点的缩放？
+
+- 
+
+如何给树之类的设置背景？
+
+- 通过图层，设置一下背景色，这样就能保底了，不至于透明了
+
+加碰撞体无效
+
+- 动态添加的，显示器不显示
+- 碰撞体代码缺失
+
+cocos 如何根据地图内容生成碰撞体？
+
+- unity支持，而且它还支持碰撞体合并
+- cocos做不到，只能手动拖拽
+
+cocos碰撞体自动生成
+
+- 只有精灵类型的才会能够根据内容生成
+
+多个判定如何
+
+**角色移动实现**
+
+- 监听按下和松开的键盘事件，然后保存对应的状态
+
+  - 为啥往左走会停住？
+
+- 还有重力效果、长按效果
+
+  - 长按x移动加速，长按跳的高，否则只能跳到1半高度
+
+- 在update中更新玩家位置
+  - 跟新角色坐标的方式：2种
+    - 通过直接控制坐标，缺点：会穿模
+    - 通过控制速度
+      - 实现：不支持连跳2次
+
+  
+
+角色为啥走着走着走着会停下来？
+
+- 刚体碰到静态刚体了
+- 设置了dump，模拟了空气阻力
+
+怎样恢复为idle状态？
+
+- 在update中检测
+- 通过判断速度是否为0，比如x、y方向的速度
+
+
+
+如果有很多层if条件判断，要怎么优化？
+
+- 封装成多个函数
+- 早期返回，比如一碰到不满足的就直接return
+- 状态机
+- 避免不必要的判断，需要重新检查一下
+
+**屏幕适配**
+
+：为啥适配搞成一副屎一样？
+
+
+
+为啥要多相机？
+
+- 可以实现多视角，比如同时看到或者是视角切换
+- 
+
+全屏幕是画面变大，还是会显示更多内容，如何控制？
+
+- 
+
+多关卡如何实现？
+
+- 通过多场景
+- 通过把关卡数据保存为json，或者是表格中，然后根据配置表生成关卡
+
+- 
+
+画布
+
+- 原点设在中心还是左下角
+- 要不要对齐屏幕
+- 设置为多少合适
+
+如何获取各种尺寸？
+
+- 节点宽高
+  - contentSize，这个时原始尺寸
+  - boundingBox，常用，则是缩放后的尺寸，放大2倍，contentSize为1800，boundingBox则是3600
+- 屏幕宽高
+  - screen对象
+- 场景宽高：骑士
+
+如何设置好相机的初始位置和高度，以得到相机左边界在场景左边界
+
+- 
+
+角色锚点
+
+- 一般时设置在左下角即可
+
+
+
+图集切片问题
+
+- 可以先去texture拆分图集，然后再导入精灵，制作好图集
+
+控制节点所属层有啥意义？
+
+- 跟渲染有关，不同层的节点渲染顺序不同，编号小的先渲染
+
+相机的Visibility
+
+- 决定了哪些层的东西会被渲染
+
+循环引用的问题
+
+- 
+
